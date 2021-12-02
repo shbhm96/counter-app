@@ -1,11 +1,11 @@
                     *** How to run file ***
 Download the zip
 
-Extract the required location
+Extract to desired location
 
-open terminal -> move to that extract file loaction
+open terminal -> move to that extracted file location
 
-run npm install
+run npm install on terminal
 
-run npm start
+run npm start on terminal
 
