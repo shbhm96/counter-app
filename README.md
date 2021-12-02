@@ -1,3 +1,16 @@
+# How to run
+                    
+### Download the zip
+
+### Extract to desired location
+
+### open terminal -> move to that extracted file location
+
+### run npm install on terminal
+
+### run npm start on terminal
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
